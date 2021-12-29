@@ -1,3 +1,5 @@
+Programming Language Used: Python 3.9
+
 About game:
 	This game is only but only based on your chance. 
 	When you press Enter, you get number from 1 to 6 and you will have proportional progress.
